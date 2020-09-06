@@ -1,0 +1,16 @@
+.test{
+    margin-right: 10px;
+}
+
+.navBar {
+    background: white;
+}
+
+.font-montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.profile-image{
+    border-radius: 50%;
+    width:50px
+}
